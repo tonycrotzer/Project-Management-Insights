@@ -72,3 +72,9 @@ Finally, adaptability is essential. While frameworks provide structure, rigid ex
 Project management is far more than managing schedules and status reports. It is the discipline of aligning people, processes, technology, and business objectives to achieve meaningful outcomes.
 
 By combining strategic planning, disciplined execution, and proactive risk management, organizations can improve delivery success while maintaining quality and stakeholder confidence.
+
+## About the Author
+
+Tony Crotzer  
+LinkedIn: https://www.linkedin.com/in/tna88/  
+GitHub Profile: https://github.com/tonycrotzer
