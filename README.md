@@ -4,7 +4,7 @@ A collection of articles and insights based on my experience leading enterprise 
 
 ## Articles
 
-- [Project Management Beyond the Schedule: Turning Strategy into Successful Delivery](Project%20Management%20Beyond%20the%20Schedule.md)
+- [Project Management Beyond the Schedule: Turning Strategy into Successful Delivery](Project-Management-Beyond-the-Schedule.md)
 
 - [From Quality Gatekeeper to Strategic Partner: Elevating QA in Modern Delivery](From-Quality-Gatekeeper-to-Strategic-Partner.md)
 
